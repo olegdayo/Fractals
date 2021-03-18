@@ -1,0 +1,10 @@
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\bin\Debug\FractalSnow.exe.config
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\bin\Debug\FractalSnow.exe
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\bin\Debug\FractalSnow.pdb
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\obj\Debug\FractalSnow.csprojAssemblyReference.cache
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\obj\Debug\FractalSnow.Form1.resources
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\obj\Debug\FractalSnow.Properties.Resources.resources
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\obj\Debug\FractalSnow.csproj.GenerateResource.cache
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\obj\Debug\FractalSnow.csproj.CoreCompileInputs.cache
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\obj\Debug\FractalSnow.exe
+C:\Users\OFFLUCK\Desktop\FractalSnow\FractalSnow\obj\Debug\FractalSnow.pdb
